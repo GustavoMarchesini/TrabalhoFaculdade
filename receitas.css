@@ -1,0 +1,27 @@
+.titulos{
+    margin: 15px;
+    color: #12283D;
+}
+h3{
+    color: #12283D;
+}
+body{
+    margin-top: 0px;
+    background-color: gray;
+}
+.menu{
+    color: #12283D;
+}
+.texto{
+    text-align: left;
+    color: #12283D;
+    margin: 15px;
+}
+section{
+    display: flex;
+    flex-direction: row; 
+}
+
+
+
+
